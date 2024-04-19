@@ -12,10 +12,15 @@ Here are some facts about me:
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on a browser game project utilizing Svelte and Three.js
+  
 - 🌱 I’m currently learning Svelte and Svelte-kit
+  
 - 👯 I’m looking to collaborate on practically anything
-- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/telegram-@redplanetcat-blue)](https://t.me/redplanetcat), [![Gmail Badge](https://img.shields.io/badge/email-igornk@tuta.io-red)](mailto:igornk@tuta.io)
+  
+- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/telegram-@redplanetcat-blue)](https://t.me/redplanetcat) [![Gmail Badge](https://img.shields.io/badge/email-igornk@tuta.io-red)](mailto:igornk@tuta.io)
+  
 - 😄 Pronouns: he/him
+  
 - ⚡ Fun fact: zebra is black because if you shaved all the fur off a zebra the skin is mostly black
 
 
